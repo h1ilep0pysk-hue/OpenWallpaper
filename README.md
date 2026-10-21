@@ -29,7 +29,7 @@
 
 ## Установка из исходников
 
-git clone https://github.com/<твой-ник>/OpenWallpaper.git
+git clone https://github.com/h1ilep0pysk-hue/OpenWallpaper.git
 cd OpenWallpaper
 pip install PySide6
 
